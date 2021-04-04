@@ -11,28 +11,11 @@
 
 
 
-
 <br/>
-<h3 align="center">Connect with Me <img align="center" src="https://user-images.githubusercontent.com/32718663/113493641-9f736d00-94b7-11eb-8c2a-a36dee36ed2a.gif" width=45px> </h3>
+<h3 align="center">Connect with Me <img align="center" src="https://user-images.githubusercontent.com/32718663/113495864-c7b89700-94ca-11eb-9cc7-f047b415ec46.gif" width=80px> </h3>
 
 <p align="center">
 &nbsp; <a href="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" target="_blank" rel="noopener noreferrer"><img src="https://github.com/angelicaalbuquerque/badges-and-icons/raw/main/icons/linkedin.svg" width="25px" /></a>
 &nbsp; <a href="mailto:caioctt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg"  width="27px" /></a> 
 </p>
 
-
-
-<!--
-**caioctt/caioctt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
