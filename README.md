@@ -5,9 +5,10 @@
 
 ### About:
 - Curious and interested in learning about almost everything
-- About to graduate in computer science 
+- Almost graduated in computer science 
 - Studying to be better (in every way)
-- Working mainly with Angular and studying React
+- Actually working mainly with Angular
+- Studying React
 - Always willing to help 
 
 ### Languages and Tools:
