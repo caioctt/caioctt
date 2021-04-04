@@ -31,7 +31,7 @@
 <h3 align="center">Connect with Me <img align="center" src="https://user-images.githubusercontent.com/32718663/113495864-c7b89700-94ca-11eb-9cc7-f047b415ec46.gif" width=80px> </h3>
 
 <p align="center">
-&nbsp; <a href="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" target="_blank" rel="noopener noreferrer"><img src="https://github.com/angelicaalbuquerque/badges-and-icons/raw/main/icons/linkedin.svg" width="25px" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/caio-tavares-82696171/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/angelicaalbuquerque/badges-and-icons/raw/main/icons/linkedin.svg" width="25px" /></a>
 &nbsp; <a href="mailto:caioctt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg"  width="27px" /></a> 
 </p>
 
