@@ -2,7 +2,6 @@
 
 <h2 align="center">I'm Caio, nice to meet you! <img align="center" src="https://user-images.githubusercontent.com/32718663/113493608-2a079c80-94b7-11eb-8a90-003750cec952.gif" width=50px/> </h2> 
 <p align="center">Pronouns: <i>he/his</i><p>
-</br>
 
 ### About:
 - Curious and interested in learning about almost everything
