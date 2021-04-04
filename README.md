@@ -8,7 +8,7 @@
 - Almost graduated in Computer Science 
 - Studying to be better (in every way)
 - Actually working mainly with Angular
-- Studying React
+- Studying JavaScript/TypeScript, React and Node
 - Game designer and passionate about games 
 - Always willing to help
 
