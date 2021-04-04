@@ -1,9 +1,9 @@
 <img align="center" alt="Welcome" src="https://user-images.githubusercontent.com/32718663/113493204-c760d180-94b3-11eb-998b-cc048162378c.gif">
 
-<h3 align="center">I'm Caio, nice to meet you! <img align="center" src="https://user-images.githubusercontent.com/32718663/113493608-2a079c80-94b7-11eb-8a90-003750cec952.gif" width=50px/></h3>
-<p align="center">Pronouns: <em>he/his</em><p>
+<h2 align="center">I'm Caio, nice to meet you! <img align="center" src="https://user-images.githubusercontent.com/32718663/113493608-2a079c80-94b7-11eb-8a90-003750cec952.gif" width=50px/></h2>
 
 ### About:
+- Pronouns: <em>he/his</em>
 - Curious and interested in learning about almost everything
 - Almost graduated in Computer Science 
 - Studying to be better (in every way)
