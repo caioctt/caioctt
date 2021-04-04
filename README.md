@@ -1,15 +1,16 @@
 <img align="center" alt="Welcome" src="https://user-images.githubusercontent.com/32718663/113493204-c760d180-94b3-11eb-998b-cc048162378c.gif">
 
-<h2 align="center">I'm Caio, nice to meet you! <img align="center" src="https://user-images.githubusercontent.com/32718663/113493608-2a079c80-94b7-11eb-8a90-003750cec952.gif" width=50px/> </h2> 
-<p align="center">Pronouns: <i>he/his</i><p>
+<h3 align="center">I'm Caio, nice to meet you! <img align="center" src="https://user-images.githubusercontent.com/32718663/113493608-2a079c80-94b7-11eb-8a90-003750cec952.gif" width=50px/></h3>
+<p align="center">Pronouns: <em>he/his</em><p>
 
 ### About:
 - Curious and interested in learning about almost everything
-- Almost graduated in computer science 
+- Almost graduated in Computer Science 
 - Studying to be better (in every way)
 - Actually working mainly with Angular
 - Studying React
-- Always willing to help 
+- Game designer and passionate about games 
+- Always willing to help
 
 ### Languages and Tools:
 
@@ -35,7 +36,7 @@
 &nbsp; <a href="mailto:caioctt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg"  width="27px" /></a> 
 </p>
 
-<br/>
+---
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioctt&hide=html&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
